@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>CACS.Cookies</id>
+    <version>$version$</version>
+    <title>CACS SameSite cookie fix</title>
+    <authors>CACS</authors>
+    <owners>CACS</owners>
+    <projectUrl>http://cacs.visualstudio.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Removes SameSite=None when a UA is detected that does not support it.</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>CACS SameSite Cookies Thanks Google</tags>
+  </metadata>
+</package>
